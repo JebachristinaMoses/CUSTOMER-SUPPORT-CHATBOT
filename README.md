@@ -1,4 +1,3 @@
-# CUSTOMER-SUPPORT-CHATBOT
 # Customer Care Bot 🤖
 The Customer Care Bot is a cutting-edge customer support solution designed to revolutionize the way e-commerce websites interact with and assist their customers. Powered by OpenAI's advanced GPT-3.5 language model, this intelligent bot offers a seamless and personalized customer service experience.
 
